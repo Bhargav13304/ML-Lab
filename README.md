@@ -1,12 +1,60 @@
-Machine Learning Lab : List of Programs 
-1)Visualize the n-dimensional data using Scatter plots. Write a program to implement Hill Climbing Algorithm.
-2)Visualize the n-dimensional data using 3D surface plots. Write a program to implement the Best First Search (BFS) algorithm. 
-3)Visualize the n-dimensional data using contour plots. Write a program to implement the A* algorithm 
-4)Visualize the n-dimensional data using heat-map. Write a program to implement Min-Max algorithm. 
-5)Visualize the n-dimensional data using Box-plot. Write a program to implement Alpha-beta pruning algorithm. 
-6)Write a program to develop the Naive Bayes classifier on Titanic dataset. 
-7)Write a program to develop the KNN classifier with Euclidean distance and Manhattan distance for the k values as 3 based on split up of training and testing dataset as 70-30 on Glass dataset. 
-8)Write a program to perform unsupervised K-means clustering techniques on Iris dataset. 
-9)Write a program to perform agglomerative clustering based on single-linkage, complete linkage criteria. 
-10) Write a program to develop Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) algorithms. 
-11)Write a Program to develop simple single layer perceptron to implement AND, OR Boolean functions. 
+# 🧠 Machine Learning Lab
+
+This repository contains a collection of Python programs for various machine learning algorithms along with data visualization techniques. Each program is aligned with a corresponding visualization to better understand multi-dimensional data and model behavior.
+
+---
+
+## 📜 List of Lab Programs
+
+### 1. Scatter Plot & Hill Climbing
+- Visualize: n-dimensional data using **scatter plots**
+- Implement: **Hill Climbing Algorithm**
+
+### 2. 3D Surface Plot & Best First Search (BFS)
+- Visualize: n-dimensional data using **3D surface plots**
+- Implement: **Best First Search (BFS) Algorithm**
+
+### 3. Contour Plot & A* Algorithm
+- Visualize: n-dimensional data using **contour plots**
+- Implement: **A\* Search Algorithm**
+
+### 4. Heatmap & Min-Max Algorithm
+- Visualize: n-dimensional data using **heatmaps**
+- Implement: **Min-Max Algorithm**
+
+### 5. Box Plot & Alpha-Beta Pruning
+- Visualize: n-dimensional data using **box plots**
+- Implement: **Alpha-Beta Pruning Algorithm**
+
+### 6. Naive Bayes Classifier
+- Dataset: **Titanic**
+- Task: Develop a **Naive Bayes classifier**
+
+### 7. KNN Classifier
+- Dataset: **Glass**
+- Task: Implement **KNN classifier** with:
+  - Distance Metrics: **Euclidean** and **Manhattan**
+  - Split: **70-30 (Train-Test)**
+  - k = 3
+
+### 8. K-Means Clustering
+- Dataset: **Iris**
+- Task: Perform **K-Means Unsupervised Clustering**
+
+### 9. Agglomerative Clustering
+- Task: Implement **Agglomerative Clustering** using:
+  - **Single-linkage**
+  - **Complete-linkage**
+
+### 10. PCA & LDA
+- Task: Develop:
+  - **Principal Component Analysis (PCA)**
+  - **Linear Discriminant Analysis (LDA)**
+
+### 11. Perceptron Logic Gates
+- Task: Develop a simple **Single Layer Perceptron** to implement:
+  - **AND** function
+  - **OR** function
+
+---
+
